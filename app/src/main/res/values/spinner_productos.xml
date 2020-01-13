@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_categoria_informatica">
+        <item>PC de Sobremesa</item>
+        <item>Portátil</item>
+        <item>Monitor</item>
+    </string-array>
+    <string-array name="spinner_categoria_electronica">
+        <item>Televisión</item>
+        <item>DVD</item>
+    </string-array>
+    <string-array name="spinner_categoria_moviles">
+        <item>Pixel</item>
+        <item>Galaxy</item>
+        <item>Iphone</item>
+        <item>Xiamoi</item>
+    </string-array>
+</resources>
