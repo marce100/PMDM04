@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PMDM03</string>
+    <string name="app_name">PMDM04</string>
     <string name="mensaje_login">Login</string>
     <string name="introducir_usuario">Usuario</string>
     <string name="introducir_password">Contraseña</string>
