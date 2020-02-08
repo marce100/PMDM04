@@ -21,6 +21,12 @@
         />
 
     <item
+        android:id="@+id/perfil_usuario"
+        android:title="Perfil de usuario"
+        app:showAsAction="never"
+        />
+
+    <item
         android:id="@+id/salir"
         android:title="Salir"
         app:showAsAction="never"

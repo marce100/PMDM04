@@ -22,8 +22,11 @@
     <string name="registro_email">Email</string>
     <string name="registro_usuario">Usuario</string>
     <string name="registro_password">Contraseña</string>
+    <string name="registro_repite_password">Repite contrseña</string>
     <string name="registro_tipo">Tipo de usuario</string>
+    <string name="registro_imagen">Imagen</string>
     <string name="boton_fin_registro">Finalizar registro</string>
+    <string name="boton_imagen">Imagen</string>
     <string name="boton_admin_ver_pedidos_en_tramite">Ver pedidos en trámite</string>
     <string name="boton_admin_ver_pedidos_aceptados">Ver pedidos aceptados</string>
     <string name="boton_admin_ver_pedidos_rechazados">Ver pedidos rechazados</string>
@@ -40,4 +43,5 @@
     <string name="boton_ver_pedidos">Ver pedidos en trámite</string>
     <string name="boton_ver_compras_realizadas">Ver compras realizadas</string>
     <string name="boton_cliente_siguiente">Siguiente</string>
+    <string name="boton_actualizar_perfil">Perfil de usuario</string>
 </resources>
